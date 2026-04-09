@@ -1,0 +1,4 @@
+interface:
+  display_name: "Codex Feishu Bridge"
+  short_description: "Deploy and operate Feishu bridge"
+  default_prompt: "Install or operate the Feishu-to-Codex bridge, then explain the exact deployment and usage steps."
